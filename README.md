@@ -1,5 +1,7 @@
 # UML Design Tool
 
+https://opuslearning.github.io/class-model/
+
 ## Description
 
 This UML Design Tool is a web-based application that allows users to create and manipulate UML class diagrams interactively. It provides a canvas interface where users can add classes, interfaces, properties, methods, and relationships between entities.
